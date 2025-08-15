@@ -18,7 +18,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Patas App",
+  title: "DibuArt",
   description: "App para subir y editar dibujos",
 };
 

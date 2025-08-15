@@ -10,7 +10,7 @@ export enum ColorTheme {
   Red = "theme-red",
 }
 
-export const DEFAULT_COLOR_THEME: ColorTheme = ColorTheme.Rose;
+export const DEFAULT_COLOR_THEME: ColorTheme = ColorTheme.Green;
 
 export type Hex = `#${string}`;
 

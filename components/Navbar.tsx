@@ -16,7 +16,7 @@ export const Navbar = () => {
           href="/"
           className={`text-4xl text-primary ${merienda.className}`}
         >
-          Patas
+          DibuArt
         </Link>
         <div className="flex gap-5">
           <SelectColorTheme />
